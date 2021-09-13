@@ -1,0 +1,3 @@
+include fa3/fa2util.c
+include fa3/fa2util.pxd
+include examples/*
